@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 123
 
 
+=======
+>>>>>>> parent of 1d27ffb (texto números)
